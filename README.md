@@ -29,7 +29,7 @@ The **PetriRL-DJSSP** environment focuses on **Dynamic Job Shop Scheduling Probl
 
 ## Framework Overview  
 
-![Framework](https://github.com/Sofiene-Uni/PetriRL_DJSSP/blob/main/framework.pdf)  
+![Framework](https://github.com/Sofiene-Uni/PetriRL_DJSSP/blob/main/framework.png)  
 
 ---
 

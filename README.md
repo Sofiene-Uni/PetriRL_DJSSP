@@ -1,6 +1,10 @@
 ## PetriRL-DJSSP (`petrirl-djssp-v0`)  
 
-The **PetriRL-DJSSP** environment focuses on **Dynamic Job Shop Scheduling Problems (DJSSPs)** under uncertainty, including:  
+## Framework Overview  
+
+![Framework](https://github.com/Sofiene-Uni/PetriRL_DJSSP/blob/main/framework.png)  
+
+The **PetriRL-DJSSP** environment from the PetriRl package, it focuses on **Dynamic Job Shop Scheduling Problems (DJSSPs)** under uncertainty, including:  
 
 - **Dynamic Action Masking** – Prevents infeasible scheduling decisions caused by stochastic job arrivals, machine breakdowns, or unavailable resources.  
 - **Adaptive Scheduling** – RL policies remain effective under disruptions without retraining.  
@@ -24,13 +28,6 @@ The **PetriRL-DJSSP** environment focuses on **Dynamic Job Shop Scheduling Probl
 
 - **Performance:**  
   Outperforms classical dispatching heuristics on makespan and shows higher fault tolerance under uncertainty.  
-
----
-
-## Framework Overview  
-
-![Framework](https://github.com/Sofiene-Uni/PetriRL_DJSSP/blob/main/framework.png)  
-
 ---
 
 ## Installation  

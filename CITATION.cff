@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the papers below."
+title: "PetriRL DJSSP"
+authors:
+  - family-names: Lassoued
+    given-names: Sofiene
+license: MIT
+repository-code: "https://github.com/Sofiene-Uni/PetriRL_DJSSP"
+preferred-citation:
+  type: article
+  title: "Policy-Based Reinforcement Learning with Action Masking for Dynamic Job Shop Scheduling under Uncertainty: Handling Random Arrivals and Machine Failures"
+  authors:
+    - family-names: Lassoued
+      given-names: Sofiene
+    - family-names: Lier
+      given-names: Stefan
+    - family-names: Schwung
+      given-names: Andreas
+  journal: "arXiv preprint arXiv:2601.09293"
+  year: 2026
+  doi: "10.48550/arXiv.2601.09293"
+  url: "https://arxiv.org/abs/2601.09293"
+references:
+  - type: article
+    title: "Introducing PetriRL: An innovative framework for JSSP resolution integrating Petri nets and event-based reinforcement learning"
+    authors:
+      - family-names: Lassoued
+        given-names: Sofiene
+      - family-names: Schwung
+        given-names: Andreas
+    journal: "Journal of Manufacturing Systems"
+    volume: 74
+    start: 690
+    end: 702
+    year: 2024
+    doi: "10.1016/j.jmsy.2024.04.028"

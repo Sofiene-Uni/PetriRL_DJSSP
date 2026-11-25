@@ -36,7 +36,13 @@ Developed by Sofiene Lassoued during his PhD at South Westphalia University of A
 If you use this work, please cite:
 
 ```bibtex
-
+@article{lassoued2026djssp,
+  title   = {Policy-Based Reinforcement Learning with Action Masking for Dynamic Job Shop Scheduling under Uncertainty: Handling Random Arrivals and Machine Failures},
+  author  = {Lassoued, Sofiene and Lier, Stefan and Schwung, Andreas},
+  journal = {arXiv preprint arXiv:2601.09293},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2601.09293}
+}
 
 @article{lassoued2024petrirl,
   title   = {Introducing PetriRL: An innovative framework for JSSP resolution integrating Petri nets and event-based reinforcement learning},
@@ -48,3 +54,11 @@ If you use this work, please cite:
   doi     = {10.1016/j.jmsy.2024.04.028}
 }
 ```
+
+If you use or modify the code, please also link this repository. GitHub's "Cite this repository" button
+(from `CITATION.cff`) gives a ready-made citation.
+
+## License
+
+Released under the [MIT License](LICENSE). You may use, modify and redistribute the code, including in your own
+publications, as long as the copyright notice is kept. Contributions and bug fixes are welcome via pull requests.

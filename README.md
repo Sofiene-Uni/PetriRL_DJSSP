@@ -27,7 +27,7 @@ env = gym.make("petrirl-dft-v0", benchmark="Solax", instance_id="sl00", reward_f
                random_arrival=True, machine_down=True)
 ```
 
-Solax `sl00`-`sl79` correspond to Taillard `ta01`-`ta80`. `time_seeds/` holds the random seeds used for evaluation.
+
 For an interactive interface, see [PetriRL Studio](https://github.com/Sofiene-Uni/PetriRL-Studio).
 
 ## Citation
@@ -36,12 +36,7 @@ Developed by Sofiene Lassoued during his PhD at South Westphalia University of A
 If you use this work, please cite:
 
 ```bibtex
-@article{lassoued2026djssp,
-  title   = {Policy-Based Reinforcement Learning with Action Masking for Dynamic Job Shop Scheduling under Uncertainty: Handling Random Arrivals and Machine Failures},
-  author  = {Lassoued, Sofiene and Lier, Stefan and Schwung, Andreas},
-  journal = {arXiv preprint arXiv:2601.09293},
-  year    = {2026}
-}
+
 
 @article{lassoued2024petrirl,
   title   = {Introducing PetriRL: An innovative framework for JSSP resolution integrating Petri nets and event-based reinforcement learning},
